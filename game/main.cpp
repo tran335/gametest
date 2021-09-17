@@ -4,6 +4,6 @@
 using namespace std;
 int main(void)
 {
-	cout << "Hello, git";
+	cout << "Hello, git"<<endl;
 	system("pause");
 }
